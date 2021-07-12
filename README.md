@@ -1,2 +1,4 @@
 # crud
-using postgres, mysql, clickhouse with golang
+using PostgreSQL, MySql, ClickHouse with golang
+
+Just for exercises with different databases.
